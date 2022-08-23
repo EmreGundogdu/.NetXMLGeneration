@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<StudentData xmlns:xsi="http:www.abc.com" d1p1:schemaLocation="http://www.abc.com/ aaa.xsd" xmlns="http:www.abc.com" xmlns:d1p1="http:www.abc.com/XMLSchema-instance">
+  <Header>
+    <Content>2022-08-18</Content>
+  </Header>
+  <StudentRecords>
+    <StudentRecord>
+      <StudentName>EGndgd</StudentName>
+      <StudentGroup>Technology</StudentGroup>
+      <Address>
+        <AddressLine>ABC Building, 21211</AddressLine>
+        <Country>TR</Country>
+      </Address>
+      <StudentSubs>
+        <StudentSub />
+        <StartDate>2022-08-18</StartDate>
+        <EndDate>2024-08-18</EndDate>
+      </StudentSubs>
+    </StudentRecord>
+  </StudentRecords>
+</StudentData>
